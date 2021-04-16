@@ -187,7 +187,7 @@
       <workItem from="1618537098061" duration="88000" />
       <workItem from="1618537212746" duration="248000" />
       <workItem from="1618537554528" duration="2705000" />
-      <workItem from="1618540263865" duration="953000" />
+      <workItem from="1618540263865" duration="1519000" />
     </task>
     <task id="LOCAL-00001" summary="jdbc-servlet">
       <created>1618541097581</created>
@@ -210,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618541207665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jdbc-servlet">
+      <created>1618541269935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618541269935</updated>
+    </task>
+    <task id="LOCAL-00005" summary="jdbc-servlet">
+      <created>1618541320526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618541320526</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +335,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="272" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1618537093594" />
+    <state x="502" y="324" key="git4idea.ui.GitResetDialog" timestamp="1618541544907">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="502" y="324" key="git4idea.ui.GitResetDialog/0.0.1536.834@0.0.1536.834" timestamp="1618541544907" />
     <state x="425" y="189" width="672" height="677" key="run.anything.popup" timestamp="1618539606848">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
