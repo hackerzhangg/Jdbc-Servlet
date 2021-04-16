@@ -53,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
@@ -215,6 +216,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="315" y="346" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1618500216279" />
+    <state x="331" y="14" key="CommitChangelistDialog2" timestamp="1618541096770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="331" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1618541096770" />
     <state x="549" y="176" key="FileChooserDialogImpl" timestamp="1618537674937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
